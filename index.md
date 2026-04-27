@@ -5,9 +5,9 @@ layout: default
 
 # Summary of Analysis
 
-#Visualization
+# Visualization
 
-#Conclusion
+# Conclusion
 
 Based on my analysis, the results are somewhat inconclusive, but there appears to be a positive relationshiop between studnets creating theri own examples and their level of understanding. In the box and line plot, higher frequencies of studnets generating their own examples generally correspond to higher reported understanding. Additionally, the box plot shows that students who create their own examples more frequently tend to have higher median understanding levels. Students reporting higher frequences of creating their own examples also tend to report higher levels of understanding. However, the scatter plot indicates the entire range of understanding responses is visible for nearly every response value of own_examples, so it may not be possible to come to a definite conclusion. However, the data does provide some support that students creating their own coding examples may help their understanding, although other factors such as individual learning preferences may contribute to this.  
 
@@ -19,6 +19,8 @@ To build upon this idea, more survey questions gathering details on how students
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
-
+<img src="static/imgs/comp110_line_graph.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static/imgs/bar_graph_comp110.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static/imgs/scatter_comp110.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 This is basic paragraph text.
 
