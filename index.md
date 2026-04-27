@@ -19,8 +19,8 @@ To build upon this idea, more survey questions gathering details on how students
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
-<img src="static/imgs/comp110_line_graph.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
-<img src="static/imgs/bar_graph_comp110.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
-<img src="static/imgs/scatter_comp110.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static/imgs/comp110_line_graph.png" alt="Image of line graph. "  width="500"/>
+<img src="static/imgs/bar_graph_comp110.png" alt="Image of bar graph. "  width="500"/>
+<img src="static/imgs/scatter_comp110.png" alt="Image of scatter plot. "  width="500"/>
 This is basic paragraph text.
 
